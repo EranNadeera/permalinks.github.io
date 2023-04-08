@@ -107,7 +107,7 @@ li {
   align-items: center;
   justify-content: space-between;
   background-color: #fff;
-  background-image: url(/img/background.svg);
+  background-image: url(./img/background.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -184,7 +184,7 @@ li {
   margin: 0;
   position: relative;
   height: 622px;
-  background-image: url(/img/background.svg);
+  background-image: url(./img/background.svg);
   background-repeat: no-repeat;
   background-size: cover;
   border-top: solid rgb(255, 255, 255) 2px;
@@ -593,7 +593,7 @@ li {
 }
 
 #fourth-section .subsec-foursec {
-  background-image: url(/img/bgforQA.svg);
+  background-image: url(./img/bgforQA.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -653,7 +653,7 @@ li {
 
 /* FIFTH SECTION --------------------------------------------------*/
 #fifth-section {
-  background-image: url(/img/bghere.png);
+  background-image: url(./img/bghere.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -874,7 +874,7 @@ li {
 
 /* TEN SECTION ---------------------------------------------------------------- */
 #ten-section {
-  background-image: url(/img/bgforQA.svg);
+  background-image: url(./img/bgforQA.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -1449,7 +1449,6 @@ li {
 }
 
 #eleven-section .card-title {
-  font-family: ClashGrotesk-Medium;
   font-size: 26px;
   margin-left: 65px;
   font-stretch: normal;
