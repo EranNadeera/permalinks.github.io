@@ -107,7 +107,7 @@ li {
   align-items: center;
   justify-content: space-between;
   background-color: #fff;
-  background-image: url(./img/background.svg);
+  background-image: url(../img/background.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
